@@ -16,7 +16,7 @@ traits = [
 
     # Physical traits
     ["Uthållig", "Smidig", "Stark", "Svag", "Snabb", "Trög", "Klumpig", "Elegant",
-     "Vig", "Skadad (t.ex. blind på ett öga)"],
+     "Vig"],
 
     # Social traits
     ["Karismatisk", "Övertygande", "Charmig", "Tystlåten", "Respektlös", "Högljudd",
@@ -28,8 +28,8 @@ traits = [
 
     # Supernatural traits
     ["Kan se framtiden", "Har en förbannelse över sig", "Är odödlig", "Kan tala med djur",
-     "Kan förändra sitt utseende", "Läser andras tankar", "Kan kontrollera eld/vatten/jord/luft",
-     "Har en magisk artefakt", "Har en demonisk sida", "Kan återuppstå efter att ha dött"]
+     "Kan förändra sitt utseende", "Läser andras tankar", "Kan kontrollera eld", "Har en demonisk sida", 
+     "Kan återuppstå efter att ha dött"]
 ]
 
 # Lista med förnamn
